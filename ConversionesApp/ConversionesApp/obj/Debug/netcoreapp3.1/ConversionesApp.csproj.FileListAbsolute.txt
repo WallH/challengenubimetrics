@@ -1,0 +1,13 @@
+D:\Programacion2020\testTecnico\Challenge\Primero\ConversionesApp\ConversionesApp\bin\Debug\netcoreapp3.1\ConversionesApp.exe
+D:\Programacion2020\testTecnico\Challenge\Primero\ConversionesApp\ConversionesApp\bin\Debug\netcoreapp3.1\ConversionesApp.deps.json
+D:\Programacion2020\testTecnico\Challenge\Primero\ConversionesApp\ConversionesApp\bin\Debug\netcoreapp3.1\ConversionesApp.runtimeconfig.json
+D:\Programacion2020\testTecnico\Challenge\Primero\ConversionesApp\ConversionesApp\bin\Debug\netcoreapp3.1\ConversionesApp.runtimeconfig.dev.json
+D:\Programacion2020\testTecnico\Challenge\Primero\ConversionesApp\ConversionesApp\bin\Debug\netcoreapp3.1\ConversionesApp.dll
+D:\Programacion2020\testTecnico\Challenge\Primero\ConversionesApp\ConversionesApp\bin\Debug\netcoreapp3.1\ConversionesApp.pdb
+D:\Programacion2020\testTecnico\Challenge\Primero\ConversionesApp\ConversionesApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Programacion2020\testTecnico\Challenge\Primero\ConversionesApp\ConversionesApp\obj\Debug\netcoreapp3.1\ConversionesApp.AssemblyInfoInputs.cache
+D:\Programacion2020\testTecnico\Challenge\Primero\ConversionesApp\ConversionesApp\obj\Debug\netcoreapp3.1\ConversionesApp.AssemblyInfo.cs
+D:\Programacion2020\testTecnico\Challenge\Primero\ConversionesApp\ConversionesApp\obj\Debug\netcoreapp3.1\ConversionesApp.csproj.CopyComplete
+D:\Programacion2020\testTecnico\Challenge\Primero\ConversionesApp\ConversionesApp\obj\Debug\netcoreapp3.1\ConversionesApp.dll
+D:\Programacion2020\testTecnico\Challenge\Primero\ConversionesApp\ConversionesApp\obj\Debug\netcoreapp3.1\ConversionesApp.pdb
+D:\Programacion2020\testTecnico\Challenge\Primero\ConversionesApp\ConversionesApp\obj\Debug\netcoreapp3.1\ConversionesApp.csprojAssemblyReference.cache
